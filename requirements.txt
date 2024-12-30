@@ -1,4 +1,5 @@
 numpy==1.23.5
+fiona==1.8.21
 geopandas==0.10.2
 pandas==2.1.0
 plotly==5.10.0
