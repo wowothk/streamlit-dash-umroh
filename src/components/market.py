@@ -1,5 +1,4 @@
 # pylint: disable=missing-module-docstring, missing-function-docstring, line-too-long
-import streamlit as st
 from streamlit_echarts import st_echarts
 from utils.load_data import load_data
 
